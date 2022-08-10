@@ -1,4 +1,4 @@
-# C-Programming_Udemy-Exercises
+# C Programming - Udemy Exercises
 
 This repository contains my solutions to the exercises put forth throughout the 
 "C Programming Bootcamp - The Complete C Language Course" Udemy Course found here: 
