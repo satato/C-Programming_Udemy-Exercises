@@ -15,6 +15,9 @@ int main(int argc, const char * argv[]) {
     int temp_num;
     int reversal;
     
+    printf("Please enter a 3-digit number\n");
+    scanf("%d",&num);
+    
     temp_num = num;
     
     reversal = (temp_num % 10) * 100;
